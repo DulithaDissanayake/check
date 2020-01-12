@@ -7,3 +7,5 @@ This line is going to be edited at the same time - from local repo
 =======
 This line is going to be updated at the same time --- This is From cloud
 >>>>>>> refs/remotes/origin/master
+
+Added after conflict resolving
