@@ -2,3 +2,4 @@ Dulitha
 Dissanayake
 Added new Line
 //This line is added from remote reporsitory
+This line is going to be edited at the same time - from local repo
