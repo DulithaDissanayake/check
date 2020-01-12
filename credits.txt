@@ -2,3 +2,4 @@ Dulitha
 Dissanayake
 Added new Line
 //This line is added from remote reporsitory
+This line is going to be updated at the same time --- This is From cloud
